@@ -1,10 +1,12 @@
-| Nama  | Yudha Purnama Putra |
+| Nama  | Feibert Sianturi |
 | ----- | ----------------------- |
-| NIM   | 312210352               |
-| Kelas | TI.22.A.3               |
+| NIM   | 312210578             |
+| Kelas | TI.22.A.5              |
 | Tugas | UTS Pemrograman Virtual |
 
 ### Pada praktikum ini, kita akan membuat Project baru dengan nama LatihanCRUD, dengan memakai Database pv_biodata dan jFrame seperti jFrame Biodata dengan beberapa perubahan desain :
+![0111](https://github.com/user-attachments/assets/6195e759-c518-4247-8a35-dbb95058a9b0)
+
 
 ![yp](https://github.com/user-attachments/assets/90a44948-a262-4c29-aa65-95431454ca4e)
 ![img](img/2.png)
