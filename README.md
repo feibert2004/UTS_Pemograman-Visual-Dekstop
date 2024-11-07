@@ -1,6 +1,10 @@
 # UTS_Pemograman-Visual-Dekstop
 Pada praktikum ini, kita akan membuat Project baru dengan nama LatihanCRUD, dengan memakai Database pv_biodata dan jFrame seperti jFrame Biodata dengan beberapa perubahan desain :
+
+![0111](https://github.com/user-attachments/assets/a552685d-4322-415c-ac84-675b3956341c)
+
 ![image](https://github.com/user-attachments/assets/15fd1232-7d7e-4c9e-a760-baffadbe3b89)
+
 <img width="946" alt="2" src="https://github.com/user-attachments/assets/add58cdd-9dc5-414c-8bf0-042bc04733af">
 Buatlah Project baru dengan nama LatihanCRUD.
 <img width="461" alt="3" src="https://github.com/user-attachments/assets/e5a63e21-50d2-4858-a3f8-8423b8031f35">
